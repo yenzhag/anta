@@ -1,0 +1,1 @@
+$("#cover-top").offset({top:"60%"}).click(function(){$(window).scrollTop(0)});
